@@ -1,6 +1,6 @@
-# Lando Norris Clone - Next.js Animation Experience
+# Next.js Animation Experience
 
-A modern web animation experience inspired by [landonorris.com](https://landonorris.com), built with Next.js 15, Three.js, GSAP, Rive, and Lenis.
+A modern web animation experience inspired, built with Next.js 15, Three.js, GSAP, Rive, and Lenis.
 
 ## 🚀 Technologies Used
 
